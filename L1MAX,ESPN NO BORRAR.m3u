@@ -1,0 +1,20 @@
+#EXTINF:11,L1MAX HD
+#EXTVLCOPT:network-caching=1000
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:0,L1
+#EXTVLCOPT:network-caching=1000
+http://190.108.83.69:8000/play/a08s/index.m3u8
+#EXTINF:11,ESPN HD
+http://181.224.200.5:2277/play/aa07/index.m3u8
+#EXTINF:0,ESPN 2 HD
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:0,ESPN 3 HD
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:0,ESPN 4HD
+http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:0,ESPN 5HD
+http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:0,ESPN 6HD
+http://181.224.200.5:2277/play/a02h/index.m3u8
+#EXTINF:0,ESPN 7 HD
+http://181.224.200.5:2277/play/a02l/index.m3u8
